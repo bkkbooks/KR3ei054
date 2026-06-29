@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3ei054/jc/v1/juan/2
+seq: 2
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 中卷佚
+  hash: sha256:e16d3fe6bf0080f61dabb5c43170bcfbd26eeccba01bc931336dd6f2c98cac86
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3ei054_jc_002-d4.h1s1}
+metadata:
+  title: 胎產秘書
+  edition:
+    short: jc
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ei054.xml
+hash: sha256:8417a71604a8b81ecad8a48f8aa490eee7a80066b10498ead891362fae176a72
