@@ -17,14 +17,15 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ei054_000.yaml, hash: 'sha256:fcb1465043608a13debf381cd258e4292d98b016fd31cc4b057544746b08e467'}
-  - {seq: 1, filename: KR3ei054_001.yaml, hash: 'sha256:88ea7fcb7e9e5a013012b9fa859fbfc0d50a36827c49d7735f10652053058932'}
+  - {seq: 0, filename: KR3ei054_000.yaml, hash: 'sha256:6119cce7353b11fd8e9955f9b452336bf62331cd56602797f75726ba6017cfe3'}
+  - {seq: 1, filename: KR3ei054_001.yaml, hash: 'sha256:10e30932d54df2628e9c2cc72448ef9fe9c95d8c80ad9c0d4c5edb5cdd8dc64e'}
   - {seq: 2, filename: KR3ei054_002.yaml, hash: 'sha256:8417a71604a8b81ecad8a48f8aa490eee7a80066b10498ead891362fae176a72'}
-  - {seq: 3, filename: KR3ei054_003.yaml, hash: 'sha256:38a939eee7beffa0086ce1bd00fd518c13d061c83392ed81ac514f4ba9161f35'}
+  - {seq: 3, filename: KR3ei054_003.yaml, hash: 'sha256:de2f724d2bae4241c937f73ef1fff0906e61bda31712a4a3981576efe5ff29c4'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ei054_000.markers.yaml, hash: 'sha256:767f6ca3158f0d498cc6d749ab86ac10b184203e8802d3160138cb2dbb200e98'}
-  - {seq: 1, role: markers, filename: assets/KR3ei054_001.markers.yaml, hash: 'sha256:a37e6c4ee6d88067da7bd5ddb82af1042e76f18caced3cd8fba8bb3125decfeb'}
-  - {seq: 3, role: markers, filename: assets/KR3ei054_003.markers.yaml, hash: 'sha256:5287ad298f4936807b697b4d0dc786c438c5c1b899ab09267d997620a93d43c8'}
+  - {seq: 0, role: markers, filename: assets/KR3ei054_000.markers.yaml, hash: 'sha256:e63368b9a2a2e8b5d7ebf1cb7d02d332929b514063a2670fefa4b65de47c742b'}
+  - {seq: 1, role: markers, filename: assets/KR3ei054_001.markers.yaml, hash: 'sha256:bdde6245d067deb16069add13c5ec5a7cda65fb9714567c260de8c77e06aa747'}
+  - {seq: 2, role: markers, filename: assets/KR3ei054_002.markers.yaml, hash: 'sha256:7c649ecd2686673c36b069fdc0464955e957158a62304540c81b5af4c65edf31'}
+  - {seq: 3, role: markers, filename: assets/KR3ei054_003.markers.yaml, hash: 'sha256:d22ec572296c2202868ab1463c80814d332bf25276f04047483b5edf99951323'}
 table_of_contents:
 - ref:
     seq: 0
@@ -886,7 +887,4 @@ table_of_contents:
   label: 消乳
   type: section
   level: 2
-hash: sha256:afe977d92dd222aec106d92854913be03aaeae666ef92a8a63e08ec0469afcf7
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:c6ad115d01b116611ca2365bf347880c4da7943b159d9bb428781464651cb7ae
